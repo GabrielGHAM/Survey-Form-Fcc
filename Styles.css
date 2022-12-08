@@ -1,0 +1,52 @@
+body{
+  font-family:Candara,comic-sans;
+  font-size:1rem;
+  font-weight:350;
+  line-height: 1.5;
+  color:white;
+  background-image:url(https://i.pinimg.com/564x/2b/52/aa/2b52aa96961cc966eb21a897e04df7dd.jpg);  background-size:cover;    background-position:center;margin:0  
+}
+.title1{
+  text-align:center;
+}
+.description1{
+  font-style:italic bold;
+  font-size:20;
+  font-weight:350;
+  text-shadow: 1px 1px 1px rgb(0 0 0 / 40%);
+  text-align: center;
+}
+   label{
+    display: block;
+     text-align: center;
+    font-size: 1.0rem;
+    margin-bottom: 0.1rem;
+        margin: 0.5rem 0;
+   }
+.formm{display: block;
+     text-align: center;
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+    padding: center;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+       }
+  .input-textarea{
+
+    min-height: 50px;
+    width: 100%;
+    padding: rem;
+  }
+  .submitt{
+        display: block;
+    width: 100%;
+    padding: 0.50rem;
+    color: Blue;
+    border-radius: 2px;
+    cursor: pointer;
+  }

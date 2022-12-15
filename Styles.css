@@ -4,7 +4,7 @@ body{
   font-weight:350;
   line-height: 1.5;
   color:white;
-  background-image:url(https://i.pinimg.com/564x/2b/52/aa/2b52aa96961cc966eb21a897e04df7dd.jpg);  background-size:cover;    background-position:center;margin:0  
+  background-image:url(https://static.vecteezy.com/ti/fotos-gratis/p2/6893582-fundo-papel-preto-amassado-texturizado-gratis-foto.jpg);  background-size:cover;    background-position:center;margin:0  
 }
 .title1{
   text-align:center;
@@ -37,7 +37,7 @@ body{
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
        }
   .input-textarea{
-
+  text-align:center;
     min-height: 50px;
     width: 100%;
     padding: rem;
@@ -49,4 +49,8 @@ body{
     color: Blue;
     border-radius: 2px;
     cursor: pointer;
+  }
+  .q1{
+ 
+  text-align:center;
   }
